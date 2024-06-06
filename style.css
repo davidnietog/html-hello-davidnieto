@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+header {
+    background-color: white;
+    padding: 15px 0px;
+}
+
+header h1 {
+    width: 600px;
+    margin: 0px;
+    margin: auto;
+}
+article {
+
+    width: 600px;
+    margin: auto;
+}
+.article-header {
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 15px;
+}
+.article-footer {
+    padding: 0px;
+    margin: 0px;
+    color: black;
+}
